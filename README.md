@@ -24,10 +24,7 @@ A new Flutter project.
 &nbsp
 &nbsp
 <img src="https://github.com/paritoshkrjha/Flutter_Meals_App/assets/86141517/1746cc44-8dd5-4340-8bea-dcfe158a5d72" height="400">
-&nbsp
-&nbsp
-&nbsp
-&nbsp
+
 
 
 
